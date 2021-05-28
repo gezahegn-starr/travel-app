@@ -1,4 +1,4 @@
-# react-native-template
+# Travel app
 
 #### in ios/Podefile -> pod 'RNVectorIcons', :path => '../node_modules/react-native-vector-icons'
 
